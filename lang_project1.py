@@ -213,9 +213,10 @@ input_var = ""
 input_var = input("enter question: ")
 while input_var != "exit":
 
-   
-# D:\sherlock.txt
+
     '''
+    sample file: D:\sherlock.txt
+        
     sample string: 
         To Sherlock Holmes she is always the woman. I have seldom heard him
         mention her under any other name
